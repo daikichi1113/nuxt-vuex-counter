@@ -1,3 +1,6 @@
+# 概要
+nuxt.jsの学習のために作成したカウンターアプリ
+
 # nuxt-vuex-counter
 
 > My premium Nuxt.js project
